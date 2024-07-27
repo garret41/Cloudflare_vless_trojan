@@ -1,8 +1,8 @@
 // src/worker.js
 import { connect } from "cloudflare:sockets";
  
-let Pswd = "trojan";
-const proxyIPs = ["proxy.xxxxxxxx.tk"]; //ts.hpc.tw workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
+let Pswd = "trojan00";
+const proxyIPs = ["cdn.xn--b6gac.eu.org"]; //ts.hpc.tw workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org proxy.xxxxxxxx.tk
 let cn_hostnames = [''];
 let CDNIP = 'www.visa.com.sg'
 // http_ip
